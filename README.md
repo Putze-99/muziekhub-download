@@ -20,26 +20,37 @@ voor jouw computer:
 
 | Jouw computer | Bestand |
 |---|---|
-| Windows | `MuziekHub-…-windows.zip` |
+| Windows | `MuziekHub-…-setup.exe` |
 | Mac met Apple Silicon (M1, M2, M3, M4) | `MuziekHub-…-mac.dmg` |
 | Mac met Intel (grofweg 2020 en eerder) | `MuziekHub-…-mac-intel.dmg` |
 
-Staat de versie voor jouw computer er nog niet bij, dan komt die eraan. De
-bestanden `…-update.zip` en `update.json` heb je niet nodig; die gebruikt
-MuziekHub zelf om bij te werken.
+Liever geen installer op Windows? `MuziekHub-…-windows.zip` werkt ook, zie
+hieronder. Staat de versie voor jouw computer er nog niet bij, dan komt die
+eraan. De bestanden `…-update.zip` en `update.json` heb je niet nodig; die
+gebruikt MuziekHub zelf om bij te werken.
 
 Je hoeft niets anders te installeren: Python, ffmpeg en de rest zitten al in
 de download.
 
 ## Installeren op Windows
 
-1. Rechtsklik de zip en kies **Alles uitpakken**. Kies een vaste plek,
-   bijvoorbeeld `C:\MuziekHub` of je map Documenten, en niet de map Downloads.
-2. Dubbelklik in de uitgepakte map op **MuziekHub.vbs**. Laat Verkenner de
-   extensies niet zien, dan staan er twee bestanden die "MuziekHub" heten;
-   neem die met het blauwe pictogram.
-3. Zegt Windows *"Windows heeft uw pc beveiligd"*? Klik op
+1. Download `MuziekHub-…-setup.exe` en dubbelklik erop. Zegt je browser dat
+   het bestand *"niet vaak wordt gedownload"*, kies dan **Behouden** (in Edge
+   onder de drie puntjes **⋯**, daarna **Meer weergeven** en
+   **Toch behouden**).
+2. Zegt Windows *"Windows heeft uw pc beveiligd"*? Klik op
    **Meer informatie** en daarna op **Toch uitvoeren**.
+3. Klik op **Volgende** en **Installeren**. Een beheerderswachtwoord is niet
+   nodig. MuziekHub en MuziekHub Mini komen in het Startmenu en, als je dat
+   aanvinkt, op je bureaublad.
+
+Verwijderen gaat via **Instellingen > Apps**. Je bibliotheek, playlists en
+downloads blijven dan staan.
+
+**Liever de zip?** Rechtsklik hem, kies **Alles uitpakken** naar een vaste
+plek (niet de map Downloads) en dubbelklik in de uitgepakte map op
+**MuziekHub.vbs**. Laat Verkenner de extensies niet zien, neem dan de
+"MuziekHub" met het blauwe pictogram.
 
 ## Installeren op de Mac
 
@@ -56,8 +67,8 @@ de download.
 ## Waarom die waarschuwing?
 
 MuziekHub is niet digitaal ondertekend. Zo'n handtekening kost per jaar geld
-bij Microsoft en Apple. Daarom vraagt je computer één keer of je het
-vertrouwt.
+bij Microsoft en Apple. Daarom vragen je browser en je computer één keer of je
+het vertrouwt.
 
 ## De eerste keer
 

@@ -3,8 +3,8 @@
 Een muziekbibliotheek voor DJ's die op je eigen computer draait. Geen
 account, geen cloud, geen abonnement.
 
-> BooBeats heette eerst **MuziekHub**. De bestanden die je downloadt heten
-> daarom nog `MuziekHub-…`; het is dezelfde app.
+> BooBeats heette eerst **MuziekHub**. Na het installeren zie je die naam
+> hier en daar nog terug, zoals in de map waar hij staat; het is dezelfde app.
 
 - **Overzicht:** al je muziek op één plek, met BPM, toonsoort (Camelot),
   genres, labels en sterren.
@@ -25,11 +25,11 @@ voor jouw computer:
 
 | Jouw computer | Bestand |
 |---|---|
-| Windows | `MuziekHub-…-setup.exe` |
-| Mac met Apple Silicon (M1, M2, M3, M4) | `MuziekHub-…-mac.dmg` |
-| Mac met Intel (grofweg 2020 en eerder) | `MuziekHub-…-mac-intel.dmg` |
+| Windows | `BooBeats-…-setup.exe` |
+| Mac met Apple Silicon (M1, M2, M3, M4) | `BooBeats-…-mac.dmg` |
+| Mac met Intel (grofweg 2020 en eerder) | `BooBeats-…-mac-intel.dmg` |
 
-Liever geen installer op Windows? `MuziekHub-…-windows.zip` werkt ook, zie
+Liever geen installer op Windows? `BooBeats-…-windows.zip` werkt ook, zie
 hieronder. Staat de versie voor jouw computer er nog niet bij, dan komt die
 eraan. De bestanden `…-update.zip` en `update.json` heb je niet nodig; die
 gebruikt BooBeats zelf om bij te werken.
@@ -39,7 +39,7 @@ de download.
 
 ## Installeren op Windows
 
-1. Download `MuziekHub-…-setup.exe` en dubbelklik erop. Zegt je browser dat
+1. Download `BooBeats-…-setup.exe` en dubbelklik erop. Zegt je browser dat
    het bestand *"niet vaak wordt gedownload"*, kies dan **Behouden** (in Edge
    onder de drie puntjes **⋯**, daarna **Meer weergeven** en
    **Toch behouden**).

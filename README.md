@@ -83,10 +83,23 @@ Een welkomstscherm helpt je in drie stappen: je muziekmap kiezen, Soulseek
 koppelen (mag je overslaan) en de koppeling met Rekordbox. Daarna bepaalt
 BooBeats op de achtergrond van elk nummer de BPM en de toonsoort.
 
+### Tip: maak een Soulseek-account
+
+Het werkt zonder, maar met een Soulseek-account haal je veel meer uit
+BooBeats. Op Soulseek vind je de meeste nummers in goede kwaliteit (lossless
+of 320 kbps), en alleen dan kan BooBeats slechte versies in je bibliotheek
+vanzelf door betere vervangen.
+
+Aanmelden hoeft niet apart: verzin in het welkomstscherm een gebruikersnaam
+en wachtwoord. Is de naam nog vrij, dan wordt hij bij de eerste keer inloggen
+jouw account. Onthoud het wachtwoord goed, want opvragen kan niet. Gebruik je
+SoulseekQt al, vul dan dat account in en sluit SoulseekQt af: een account kan
+maar op één plek tegelijk online zijn.
+
 ## Bijwerken
 
-Je hoeft hier niet terug te komen. BooBeats kijkt zelf één keer per dag of er
-een nieuwe versie is. Dan staat onderin de zijbalk **↑ Versie … is er**, en
+Je hoeft hier niet terug te komen. BooBeats kijkt bij elke start, en daarna
+elke paar uur, of er een nieuwe versie is. Dan staat onderin de zijbalk **↑ Versie … is er**, en
 één klik werkt hem bij. Je muziek, bibliotheek en instellingen blijven
 gewoon staan. Had je nog MuziekHub, dan word je met dezelfde knop BooBeats.
 
